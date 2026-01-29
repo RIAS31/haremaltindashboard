@@ -1,5 +1,5 @@
 {
-  "GRAM24": { "alis": 1.000, "satis": 1.002 },
+  "GRAM24": { "alis": 0.995, "satis": 1.002 },
   "GRAM22": { "alis": 0.910, "satis": 0.940 },
   "CEYREK": { "alis": 1.603, "satis": 1.607 },
   "YARIM":  { "alis": 3.206, "satis": 3.214 },
