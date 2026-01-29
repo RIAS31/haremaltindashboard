@@ -1,4 +1,4 @@
 {
-  "FETCH_INTERVAL": 30,
+  "FETCH_INTERVAL": 5,
   "GUMUS_MARJ_TL": 2000
 }
