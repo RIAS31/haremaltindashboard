@@ -7,7 +7,7 @@
   "ATA":    { "alis": 6.680, "satis": 6.720 },
 
   "HAS_MARJ": {
-    "alis": -20,
+    "alis": -15,
     "satis": 20
   }
 }
