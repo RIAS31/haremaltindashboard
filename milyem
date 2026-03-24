@@ -1,13 +1,13 @@
 {
   "GRAM24": { "alis": 0.995, "satis": 1.003 },
   "GRAM22": { "alis": 0.910, "satis": 0.940 },
-  "CEYREK": { "alis": 1.628, "satis": 1.635 },
+  "CEYREK": { "alis": 1.630, "satis": 1.652 },
   "YARIM":  { "alis": 3.250, "satis": 3.270 },
-  "TAM":    { "alis": 6.435, "satis": 6.453 },
-  "ATA":    { "alis": 6.675, "satis": 6.686 },
+  "TAM":    { "alis": 6.440, "satis": 6.470 },
+  "ATA":    { "alis": 6.685, "satis": 6.730 },
 
   "HAS_MARJ": {
     "alis": 0,
-    "satis": 5
+    "satis": 35
   }
 }
